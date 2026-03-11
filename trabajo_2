@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cabros jijija🐍 </title>
+    <link rel="icon" href="https://image.api.playstation.com/vulcan/ap/rnd/202508/2110/588720a686e20fc3d0ed0fa5d42b10d0981341dde320e3c6.png" type="image/jpg">
+    <link rel="stylesheet" href="index.css">
+  </head>
+  <body>
+
+    <h1>Hola, soy Jony 👋</h1>
+    <p>Tengo 18 años y vivo en Medellín.</p>
+
+    <h2>Sobre mí</h2>
+    <p>Mi hobbie favorito es la natación y jugar videojuegos, mi comida preferida es la pasta y me gusta pasar tiempo con mis amigos.</p>
+
+    <h2>Mi foto</h2>
+    <img 
+      src="https://i.ytimg.com/vi/Yr2w0yS7lMA/maxresdefault.jpg" 
+      alt="Avatar de Jony"
+      width="300"
+    >
+    <h2> Mi juego favorito👾</h2>
+<img 
+      src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/content_organization/731216ff2453134e530feabc9dbd3c44e480e352-1200x625.jpg?accountingTag=VAL" 
+      alt="lol"
+      width="300"
+    >
+    <h2>Mis intereses</h2>
+    <p>Algunas cosas que me gustan:</p>
+    <p>⭐ los videojuegos</p>
+    <p>⭐ los hombres</p>
+    <p>⭐ el helao de limon</p>
+
+    <h2>Encuéntrame en</h2>
+    <p>
+      <a href="https://www.instagram.com/conejo__a?igsh=YnJuazRuMWliZ3I3" target="_blank">
+        Mi perfil en Instagram
+      </a>
+    </p>
+<h2>🎵 Mi canción favorita</h2>
+<p>
+  <a href="https://www.youtube.com/watch?v=egfyqAxvhvM&pp=ygURY2FuY2lvbmVzIGVzdGVtYW4%3D" target="_blank">
+         Reina Leona - Esteman
+  </a>
+<ul> mis juegos favoritos
+  <li>ligo leyen</li>
+  <li>valorant</li>
+  <li>genshin impact </li>
+</ul>
+
+<ol> helado favorito
+  <li>helado de crema de limon</li>
+  <li>helado de pistacho</li>
+  <li>helado de maracuya</li>
+</ol>
+</p>
+    <hr>
+    <p>Hecho con ❤️ por Jony — 2026</p>
+
+  </body>
+</html>
